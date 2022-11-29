@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const Render = require("./render")
 const query = require("./query")
 const open = require("open")
