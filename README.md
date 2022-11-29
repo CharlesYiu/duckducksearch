@@ -1,6 +1,6 @@
 # DuckDuckSearch! - a tui for duckduckgo.
 duckducksearch is a terminal user interface for browsing duckduckgo results  
-and will be opened with your default browser.  
+that will be opened with your default browser.  
 ## usage
 install with this command:
 ```bash
