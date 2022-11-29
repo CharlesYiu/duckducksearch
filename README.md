@@ -11,8 +11,8 @@ and run duckducksearch with:
 duckducksearch
 ```
 ## images
-![ui](https://raw.githubusercontent.com/charlesyiu/duckducksearch/master/images/ui.png)
-![ui searching](https://raw.githubusercontent.com/charlesyiu/duckducksearch/master/images/ui_search.png)
+![ui](https://raw.githubusercontent.com/charlesyiu/duckducksearch/main/images/ui.png)
+![ui searching](https://raw.githubusercontent.com/charlesyiu/duckducksearch/main/images/ui_search.png)
 ## keybindings
 - typing the alphabet, numbers, symbols will automatically trigger search.  
 - using the left and right arrow keys will move the cursor left or right.  
