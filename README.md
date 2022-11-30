@@ -2,9 +2,9 @@
 duckducksearch is a terminal user interface for browsing duckduckgo results  
 that will be opened with your default browser.  
 ## usage
-install with this command:
+install via [npm](https://npmjs.com/package/duckducksearch) with this command:
 ```bash
-npm install -global duckducksearch
+npm install --global duckducksearch
 ```
 and run duckducksearch with:
 ```bash
